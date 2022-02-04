@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+kicad/pcb/MX_Alps_Hybrid.pretty
