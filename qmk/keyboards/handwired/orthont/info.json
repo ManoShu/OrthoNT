@@ -42,8 +42,11 @@
     },
     "backlight": {
         "breathing": true,
-        "levels": 31,
+        "levels": 7,
         "pin": "C6"
+    },
+    "indicators": {
+        "caps_lock": "E6"
     },
     "layouts": {
         "LAYOUT": {
