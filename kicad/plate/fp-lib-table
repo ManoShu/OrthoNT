@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name plate)(type KiCad)(uri ${KIPRJMOD}/footprints/plate.pretty)(options "")(descr ""))
+  (lib (name acheron_MX_PlateSlots)(type KiCad)(uri ${KIPRJMOD}/footprints/acheron_MX_PlateSlots.pretty)(options "")(descr ""))
+)
